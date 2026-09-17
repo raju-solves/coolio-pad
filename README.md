@@ -22,3 +22,15 @@ The LEDs show status or activity
 <img width="548" height="402" alt="image" src="https://github.com/user-attachments/assets/b8a8aba4-b5a0-40b2-90fe-c33f27631c51" />
 <img width="457" height="423" alt="image" src="https://github.com/user-attachments/assets/d86cff8f-fc93-4407-a2b6-d3d92dd9d307" />
 
+
+
+
+## Bill of Materials (BOM)
+
+| Name | Description | Quantity | Price (USD) | Link |
+|---|---|---:|---:|---|
+| XIAO RP2040 | Seeed Studio XIAO RP2040 microcontroller | 1 | 21$ | [Amazon.in](https://www.amazon.in/dp/B0DRNTQ338) |
+| MX Mechanical Switches | MX-compatible mechanical keyboard switches | 15 | ~$3.96 / pack | [Amazon.in](https://www.amazon.in/dp/B0FPR2ML31) |
+| 1N4148 Diodes | General-purpose switching diodes for keyboard matrix | 16 | $2.80 | [Amazon.in](https://www.amazon.in/s?k=1N4148+diode+100+pcs) |
+| Rotary Encoder | EC11 rotary encoder with push-button switch | 1 | ~$1.80–$2.81 | [Amazon.in](https://www.amazon.in/s?k=EC11+rotary+encoder+5+pin+with+switch) |
+| Screws | M2 / M2.5 screws for assembling the case | 4 | $3.95 | [Amazon.in](https://www.amazon.in/s?k=M2+M2.5+screws) |
